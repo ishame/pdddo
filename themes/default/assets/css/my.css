@@ -14,4 +14,6 @@
  * limitations under the License.
  */
 
-"README.md"(hidden: true, showPageToc: false)
+.content {
+    padding: 0 120px 0 60px;
+}
