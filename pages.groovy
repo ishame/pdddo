@@ -15,3 +15,4 @@
  */
 
 "README.md"(hidden: true, showPageToc: false)
+"earUc.md"(layout: 'earUc')
